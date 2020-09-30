@@ -1,0 +1,36 @@
+@import "fish.css";
+@import "tips.css";
+
+body {
+    background-color: lightblue;
+    
+}
+
+img {
+    width: 100px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.travel {
+    background-color: lime;
+}
+
+.location {
+    background-color: mediumorchid;
+}
+
+.left {
+    flex: 3;
+}
+
+.right {
+    background-color: slateblue;
+    flex: 1;
+    
+}
+
