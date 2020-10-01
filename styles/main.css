@@ -1,8 +1,26 @@
 @import "fish.css";
 @import "tips.css";
 
+/* CSS starts here */
+
+header {
+    
+    height: 300px;
+   
+}
+
+#oceanPic {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+   
+    
+}
 body {
     background-color: lightblue;
+    margin: 0px;
+    
+    
     
 }
 
