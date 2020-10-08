@@ -1,3 +1,5 @@
+// Provides Array of Objects
+
 
 const fishCollection = [
     {
@@ -8,7 +10,7 @@ const fishCollection = [
         food: "Bugs",
         image: "https://cf.ltkcdn.net/small-pets/images/std/246148-1600x1177-GettyImages-1050490488.jpg"
 
-    }, 
+    },
     {
         name: "Joe",
         species: "CatFish",
@@ -17,7 +19,7 @@ const fishCollection = [
         food: "Worms",
         image: "https://cf.ltkcdn.net/small-pets/images/std/246148-1600x1177-GettyImages-1050490488.jpg"
 
-    }, 
+    },
     {
         name: "Dan",
         species: "Carp",
@@ -26,10 +28,11 @@ const fishCollection = [
         food: "Clams",
         image: "https://cf.ltkcdn.net/small-pets/images/std/246148-1600x1177-GettyImages-1050490488.jpg"
 
-    }, 
-   
-    
+    },
+
+
 ]
-    export const useFish = () => {
-        return fishCollection.slice()
-    }
+export const useFish = () => {
+    return fishCollection.slice()
+}
+
