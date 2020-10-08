@@ -2,15 +2,22 @@
  
 .fishList {
     background-color: aquamarine;
+    
   }
   
-  .fishContainer {
-    display: flex;
-    flex-wrap: wrap;
-  }
+ 
   
   .fish {
     border: 1px solid black;
     flex-basis: 20%;
     margin: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  .card {
+    background-color: hotpink;
+    font-size: small;
+    text-align: center;
   }

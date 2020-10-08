@@ -33,7 +33,9 @@ img {
 }
 
 .contentContainer__left {
+	
 	flex: 3;
+	
 }
 
 .contentContainer__right {
@@ -41,5 +43,5 @@ img {
 }
 
 body {
-	background-color: grey;
+	background-color: lightskyblue;
 }
