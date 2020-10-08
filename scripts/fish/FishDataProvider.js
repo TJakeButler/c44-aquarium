@@ -47,6 +47,15 @@ const fishCollection = [
         image: "https://cf.ltkcdn.net/small-pets/images/std/246148-1600x1177-GettyImages-1050490488.jpg"
 
     },
+    {
+        name: "Becky",
+        species: "TigerFish",
+        length: 9,
+        location: "California",
+        food: "Veggies",
+        image: "https://cf.ltkcdn.net/small-pets/images/std/246148-1600x1177-GettyImages-1050490488.jpg"
+
+    },
 
 
 ]
